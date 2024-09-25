@@ -16,3 +16,4 @@
  - Git log - 3
  - Git commit --amend -m ""
  - Git reset --soft HEAD~1
+ - Git push
